@@ -1,0 +1,32 @@
+body {
+    font-family: 'Mandali', sans-serif;
+    color: #333f3e;
+    margin: 5% 10% 0 10%;
+}
+
+h1 {
+    font-size: 2.75em;
+}
+
+.step {
+    color: #f20e0f;
+    font-size: 2em;
+    margin-bottom: 0;
+}
+
+div p {
+    font-size: 1.5em;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 5%;
+}
+
+div p:nth-child(2) {
+  margin-left: 15%;
+}
+
+img {
+    width: 100%;
+    border: 5px solid #f20e0f;
+    border-radius: 5%;
+}
